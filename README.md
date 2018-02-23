@@ -16,4 +16,4 @@ Hi, please use these parameter values;
 * PARITY_MARK = 3
 * PARITY_SPACE = 4
 ```Example : java -jar COMListener.jar COM1 8 1 0 it means DATABITS_8 STOPBITS_1 PARITY_NONE```
-* [If you wanna ask question please contact me!](https://www.linkedin.com/in/muratkayaaksoy/ "My Linkedin Page")
+[If you wanna ask question please contact me!](https://www.linkedin.com/in/muratkayaaksoy/ "My Linkedin Page")
