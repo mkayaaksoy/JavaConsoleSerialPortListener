@@ -1,6 +1,6 @@
 # JavaConsoleSerialPortListener
 Serial port listener console application  
-* Hi, please use these parameter values; 
+Hi, please use these parameter values; 
 * DATABITS_5 = 5
 * DATABITS_6 = 6
 * DATABITS_7 = 7
